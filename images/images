@@ -1,0 +1,4 @@
+</div>
+<div style="display:flex; justify-content:center; align-items:center; height:50px;"
+   <div class="button"><img src="images/icon-cart.svg"><a href="#">Add to Cart</a></div>
+  </div>
